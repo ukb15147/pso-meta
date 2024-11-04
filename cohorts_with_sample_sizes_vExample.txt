@@ -1,0 +1,20 @@
+## This list manually assembled
+COHORT	FILE	CASES	CONTROLS	EFFECT_COL	NULL_EFFECT	EA	NEA	SNP_COL
+BSTOP	[path_on_hpc]/PSOR_BSTOP_PLINK2_merged_logistic_summary_v2.txt	3864	6900	OR	1	A1	A2	SNP
+CASP	[path_on_hpc]/CASP_final_merge.summary2	1328	1366	BETA	0	A1	A2	ID
+ERLANG	[path_on_hpc]/ERLANG_final_merge.summary	2646	4159	BETA	0	ALLELE_B	ALLELE_A	ID
+ESTBB	[path_on_hpc]/ESTBB_final.summary.gz	5109	31503	OR	1	A1	AX	ID
+EST	[path_on_hpc]/EST_final_merge.summary	520	379	OR	1	A1	AX	ID
+Exomechip	[path_on_hpc]/Exomechip_final_merge.summary2	3721	4016	BETA	0	A1	A2	ID
+Genizon_Shared	[path_on_hpc]/Genizon_Shared_final_merge.summary2	760	993	BETA	0	A1	A2	ID
+HUNT	[path_on_hpc]/HUNT_final_merge.summary	4002	64048	BETA	0	EA	NEA	ID
+KIEL19	[path_on_hpc]/KIEL19_ALL_final_merge.summary	1262	4218	BETA	0	A1	A2	ID
+MANC	[path_on_hpc]/MANC_final_merge.summary	3517	9141	frequentist_add_beta_1	0	alleleB	alleleA	ID
+MichiganGSA	[path_on_hpc]/MichiganGSA_final_merge.summary2	470	317	BETA	0	A1	A2	ID
+NF	[path_on_hpc]/NF_final_merge.summary2	335	205	BETA	0	A1	A2	ID
+PsA_GWAS	[path_on_hpc]/PsA_GWAS_final_merge.summary2	1427	1403	BETA	0	A1	A2	ID
+SCOT	[path_on_hpc]/SCOT_final_merge.summary	509	753	BETA	0	ALLELE_B	ALLELE_A	ID
+TorontoGSA	[path_on_hpc]/TorontoGSA_final_merge.summary2	748	163	BETA	0	A1	A2	ID
+UCSF	[path_on_hpc]/UCSF_final_merge.summary	421	827	BETA	0	ALLELE_B	ALLELE_A	ID
+UKB	[path_on_hpc]/UKB_r11_final.summary	3649	322519	OR	1	A1	AX	SNP
+WTCCC2	[path_on_hpc]/WTCCC2_final_merge.summary2	2178	5168	BETA	0	A1	A2	ID

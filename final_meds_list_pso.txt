@@ -1,0 +1,1342 @@
+code	n	drug	search1	search2	search3	Psoriasis ONLY medication	Eczema OR psoriasis medication	INCLUDE_FINAL
+2038460150	1288	paracetamol						0
+1140868226	933	aspirin						0
+1140861958	780	simvastatin						0
+1140871310	776	ibuprofen						0
+1141179992	543	dovobet ointment	1		1	y		1
+1140865634	481	omeprazole						0
+99999	434	"Free-text entry, unable to be coded"						0
+1141188442	407	glucosamine product						0
+1140860806	376	ramipril						0
+1140909674	372	cod liver oil capsule	1					0
+1141194794	366	bendroflumethiazide						0
+1140882694	348	betnovate cream	1		1		y	1
+1140879802	346	amlodipine						0
+1140869848	315	methotrexate	1	1	1		y	1
+1140864752	291	lansoprazole						0
+1141191044	281	levothyroxine sodium						0
+1140866738	278	atenolol						0
+1140870422	273	folic acid product						0
+1193	260	omega-3/fish oil supplement						0
+1140884600	249	metformin						0
+1140880086	248	calcipotriol	1	1	1	y		1
+1141146234	240	atorvastatin						0
+1140864184	238	dovonex 50micrograms/g cream	1			y		1
+1140923346	223	co-codamol						0
+1140860696	197	lisinopril						0
+1140861998	186	ventolin 100micrograms inhaler						0
+1140852976	183	multivitamins						0
+1140884488	180	diclofenac						0
+1140879616	153	amitriptyline						0
+1140882782	148	dermovate cream	1		1		y	1
+1140878226	131	diprobase cream					y	1
+1140882618	130	diprosalic ointment	1		1		y	1
+1140864992	127	tramadol						0
+1140874790	127	betamethasone	1	1	1		y	1
+1140879406	118	ranitidine						0
+1140879760	115	bisoprolol						0
+1140921600	112	citalopram						0
+1140883504	110	cetirizine						0
+1140878378	104	dovonex 50micrograms/g ointment	1			y		1
+1140916682	101	evening primrose oil						0
+1140879540	99	fluoxetine						0
+1140888560	97	perindopril						0
+1140875408	94	allopurinol	1	1	1			0
+1140882800	94	eumovate cream	1		1		y	1
+1140910884	94	dovonex scalp solution	1			y		1
+1140884700	91	trimovate ointment					y	1
+1140874744	90	gliclazide						0
+1140911732	90	garlic product						0
+1141156836	88	candesartan cilexetil						0
+1140876592	86	multivitamin+mineral preparations						0
+1187	85	chondroitin product						0
+1140871462	84	naproxen						0
+1140881856	79	salbutamol						0
+1140909708	78	furosemide						0
+1140926934	78	tamsulosin						0
+1141167140	78	exorex lotion				y		1
+1140879778	77	doxazosin						0
+1140883066	77	insulin product						0
+1140909726	76	vitamin c product						0
+1140916356	74	losartan						0
+1140888538	72	zinc product						0
+1140878512	71	capasal shampoo	1			y		1
+1140888266	67	warfarin						0
+1141176832	66	seretide 50 evohaler						0
+1140922174	64	alendronate sodium						0
+1140888646	63	felodipine						0
+1140862772	61	loratadine						0
+1140878498	60	polytar liquid	1				y	1
+1140865354	59	gaviscon liquid						0
+1140923350	59	co-dydramol						0
+1141164828	58	adcal-d3 1.5g/10micrograms chewable tablet						0
+1141192410	58	rosuvastatin						0
+1140909786	57	beclometasone					y	1
+1140871024	56	vitamin b compound tablet						0
+1140909702	56	sulfasalazine						0
+1140871050	54	calcichew d3 tablet						0
+1140874420	54	quinine						0
+1141192736	54	ezetimibe						0
+1140879842	53	propranolol						0
+1140884516	53	thyroxine product						0
+1140926606	53	salbutamol 100micrograms spacehaler						0
+1141152998	53	irbesartan						0
+1141179982	53	betamethasone+calcipotriol				y		1
+1140876404	52	aqueous cream bp					y	1
+1140884444	52	codeine						0
+1140888092	52	elocon cream	1		1		y	1
+1140888552	52	enalapril						0
+1140874896	49	hydrocortisone	1	1	1		y	1
+1140927730	49	epaderm ointment					y	1
+1141146138	48	lipitor 10mg tablet						0
+1141168318	48	clopidogrel						0
+1140879428	47	mebeverine						0
+1141167594	47	qvar 50 inhaler						0
+1140876424	46	cocois ointment	1			y		1
+1141174032	46	doublebase gel					y	1
+1140878346	45	alphosyl cream	1			y		1
+1141174520	42	symbicort 100/6 turbohaler						0
+1140874930	41	prednisolone					y	1
+1140878304	41	e45 cream	1				y	1
+1140872228	40	gabapentin						0
+1140880092	40	neotigason 10mg capsule				y		1
+1140926732	40	meloxicam						0
+1140861806	39	aspirin 75mg tablet						0
+1140888648	39	pravastatin						0
+1140909806	39	dosulepin						0
+1140880090	38	acitretin	1	1	1	y		1
+1140884464	38	dihydrocodeine						0
+1140911734	38	ginkgo forte tablet						0
+1141145660	38	valsartan						0
+1140879464	37	loperamide						0
+1140888098	37	fluticasone	1	1	1			0
+1140870788	36	calcium salts						0
+1140882910	36	daktacort cream					y	1
+1199	36	food supplement/plant/herbal extract						0
+1140867878	35	sertraline						0
+1140878418	35	alphosyl hc cream	1			y		1
+1140916282	35	venlafaxine						0
+1140860954	34	isosorbide mononitrate						0
+1141150944	34	nasonex 0.05% aqueous nasal spray						0
+1140851812	33	gtn 400micrograms spray	1					0
+1140862382	33	becotide 50 inhaler						0
+1140864346	31	cocois scalp ointment	1			y		1
+1140867888	31	paroxetine						0
+1140888074	31	clobetasol	1	1			y	1
+1140888172	31	mometasone	1	1	1		y	1
+1141177526	31	esomeprazole						0
+1140868550	30	finasteride						0
+1140870390	30	ferrous sulphate						0
+1140876136	30	beconase 50micrograms nasal spray						0
+1141180200	29	silkis 3micrograms/g ointment	1			y		1
+1141182628	29	tiotropium						0
+1140852948	28	calcium+vitamin d 500units tablet						0
+1140879902	28	coal tar product	1			y		1
+1140865800	27	lactulose product						0
+1140866078	27	indapamide						0
+1140860834	26	glyceryl trinitrate	1					0
+1140870954	26	vitamin d product				y		1
+1140873548	26	oxytetracycline						0
+1140878324	26	oilatum cream						0
+1141146428	26	fexofenadine						0
+1141171646	26	pioglitazone						0
+1140921024	25	betacap scalp application	1		1		y	1
+1141152732	25	mirtazapine						0
+1140863144	24	zopiclone						0
+1140866122	24	bendrofluazide						0
+1140883748	24	selenium product						0
+1140910766	24	nicorandil						0
+1140862086	23	salamol 100micrograms inhaler						0
+1140862148	23	serevent 25mcg inhaler						0
+1140870306	23	iron+folic acid						0
+1140913292	23	synalar 1:10 cream					y	1
+1140923732	23	curatoderm 4micrograms/g ointment	1			y		1
+1141145710	23	alphosyl shampoo	1			y		1
+1140866236	22	spironolactone						0
+1140881472	22	lacri-lube eye ointment						0
+1140883568	22	oxybutynin						0
+1140888386	22	iron product	1					0
+1140925800	22	movicol oral powder						0
+1141146188	22	latanoprost						0
+1141146198	22	xalatan 0.005% eye drops						0
+2038459814	22	digoxin						0
+1140861128	21	tildiem 60mg m/r tablet						0
+1140863152	21	diazepam						0
+1140865010	21	viscotears liquid eye gel						0
+1140870570	21	vitamin b12 preparation						0
+1140884696	21	clobetasone	1	1			y	1
+1140862144	20	salmeterol						0
+1140876076	20	flixonase 50micrograms aqueous nasal spray						0
+1140882776	20	fucibet cream					y	1
+1140888688	20	betahistine						0
+1141153026	20	lercanidipine						0
+1141157294	20	hydrocortisone product	1				y	1
+1141166294	20	leflunomide						0
+1141180212	20	escitalopram						0
+1141200004	20	pregabalin						0
+1189	20	co-enzyme q10/ubiquinone/bio-quinone/coenzyme q10						0
+1140871112	19	vitamin e product						0
+1141168680	19	orlistat						0
+1141168936	19	sildenafil						0
+1141195836	19	dermol cream	1				y	1
+1140861090	18	adalat 5mg capsule						0
+1140865716	18	senna						0
+1140870856	18	calcichew 1.25g chewable tablet						0
+1140878328	18	hydromol cream					y	1
+1140879774	18	alfuzosin						0
+1140888510	18	verapamil						0
+1141162764	18	tolterodine l-tartrate						0
+1141180140	18	etoricoxib						0
+1140861088	17	nifedipine						0
+1140865426	17	cimetidine						0
+1140868408	17	premarin 625micrograms tablet						0
+1140869930	17	azathioprine					n	0
+1140878350	17	carbo-dome cream						0
+1140888366	17	thiamine preparation						0
+1141157126	17	montelukast product						0
+1140868170	16	prochlorperazine						0
+1140870164	16	tamoxifen						0
+1140874852	16	thyroxine sodium						0
+1140879634	16	trazodone						0
+1141145812	16	minerals - magnesium						0
+1141181868	16	omacor 1g capsule						0
+1195	16	vitamin c product						0
+1140862476	15	beclazone 50 inhaler						0
+1140862628	15	piriton 4mg tablet						0
+1140876312	15	emulsifying ointment bp					y	1
+1140878530	15	canesten 1% cream						0
+1140879806	15	diltiazem						0
+1140882852	15	locoid 0.1% cream	1				y	1
+1140884654	15	beclomethasone					y	1
+1140888176	15	mometasone furoate 0.1% ointment	1				y	1
+1140923670	15	gtn - glyceryl trinitrate	1					0
+1141171948	15	adcal 600mg chewable tablet	1					0
+1141182632	15	spiriva 18micrograms inhalation capsule						0
+1141188594	15	humira 40mg injection solution 0.8ml prefilled syringe	1			y		1
+1141200322	15	solifenacin						0
+1140861276	14	lacidipine						0
+1140862168	14	bricanyl 250mcg inhaler						0
+1140863202	14	temazepam						0
+1140878510	14	alphosyl 2 in 1 shampoo	1			y		1
+1140884308	14	hydroxychloroquine						0
+1140927320	14	dermol 500 lotion	1				y	1
+1141146606	14	calcium carbonate+cholecalciferol 1.25g/200iu tablet						0
+1141168584	14	rabeprazole sodium						0
+1141179846	14	protopic 0.03% ointment					y	1
+1141182800	14	cerazette 75micrograms tablet						0
+1197	14	evening primrose oil product						0
+1140862572	13	budesonide						0
+1140865578	13	mesalazine						0
+1140865752	13	ispaghula husk						0
+1140874686	13	glucophage 500mg tablet						0
+1140875990	13	hypromellose						0
+1140878248	13	oilatum emollient bath additive					y	1
+1140883656	13	hydroxyzine						0
+1140884412	13	sumatriptan						0
+1141164086	13	salmeterol+fluticasone propionate						0
+1141173348	13	hydroxocobalamin						0
+1141177600	13	rosiglitazone						0
+1141187810	13	tadalafil						0
+1141195044	13	hydroxycarbamide						0
+1140864286	12	flixotide 25micrograms inhaler						0
+1140865668	12	sulphasalazine						0
+1140865670	12	salazopyrin 500mg tablet						0
+1140880264	12	ketoconazole 2% shampoo					y	1
+1140922804	12	premique 0.625mg/5mg tablet						0
+1140926592	12	estraderm mx 25 patch						0
+1140929012	12	pantoprazole						0
+1141156644	12	elleste duet conti tablet						0
+1141167334	12	colofac-100 tablet						0
+1140860840	11	nitrolingual 400micrograms spray						0
+1140865396	11	buscopan 10mg tablet						0
+1140865580	11	asacol 400mg e/c tablet						0
+1140866116	11	frusemide						0
+1140867876	11	prozac 20mg capsule						0
+1140871266	11	arthrotec tablet						0
+1140875420	11	baclofen						0
+1140878442	11	dithrocream 0.1% cream	1			y		1
+1140878504	11	polytar plus liquid	1			y		1
+1140911736	11	ginseng product						0
+1140916950	11	nizoral 20mg/ml shampoo					y	1
+1140923402	11	co-amilofruse						0
+1140923728	11	tacalcitol	1	1		y		1
+1140927328	11	terbinafine						0
+1141175684	11	risedronate sodium						0
+1141176662	11	celecoxib						0
+1141177532	11	nexium 20mg tablet						0
+1141180036	11	fybogel orange s/f granules						0
+1141181700	11	estradiol product						0
+1141192740	11	ezetrol 10mg tablet						0
+1140861832	10	tranexamic acid						0
+1140867490	10	lithium product						0
+1140869276	10	micronor tablet						0
+1140871196	10	lodine 200mg tablet						0
+1140871732	10	buprenorphine						0
+1140872072	10	tegretol 100mg tablet						0
+1140875486	10	colchicine						0
+1140878308	10	aveeno cream						0
+1140879430	10	domperidone						0
+1140879818	10	metoprolol						0
+1140882630	10	diprosone cream	1		1		y	1
+1140883664	10	pizotifen						0
+1140883828	10	polytar af liquid	1			y		1
+1140909790	10	chlorphenamine						0
+1140911658	10	imigran 50mg tablet						0
+1140911680	10	starflower oil						0
+1140923688	10	zoton 15mg capsule						0
+1140926780	10	adizem-xl plus m/r capsule						0
+1141151016	10	losartan potassium+hydrochlorothiazide 50mg/12.5mg tablet						0
+1141157252	10	glyceryl trinitrate product	1					0
+1141157486	10	salbutamol product						0
+1141166006	10	telmisartan						0
+1141168326	10	kliovance 1mg/0.5mg tablet						0
+1141168554	10	migraleve tablet						0
+1141172918	10	celluvisc 1% single-use eye drops						0
+1141173872	10	cetraben cream					y	1
+1141179974	10	cozaar 25mg tablet						0
+1141184748	10	levocetirizine						0
+1141194386	10	telfast 30 tablet						0
+1141200564	10	duloxetine						0
+1201	10	st john's wort/hypericum [ctsu]	1					0
+2038459888	10	cyclosporin	1	1			y	1
+1140861138	9	adizem-60 m/r tablet						0
+1140861778	9	dipyridamole						0
+1140868472	9	vagifem 25mcg pessary						0
+1140872290	9	lamotrigine						0
+1140878286	9	diprobase ointment					y	1
+1140878426	9	polytar emollient bath additive	1				y	1
+1140882756	9	timodine cream					y	1
+1140909788	9	sodium cromoglicate						0
+1140928916	9	olanzapine						0
+1141151718	9	evorel conti patch						0
+1141162824	9	detrusitol 1mg tablet						0
+1141164276	9	nebivolol						0
+1141168374	9	dermol 200 shower emollient	1				y	1
+1141169844	9	dexamethasone+hypromellose 0.1%/0.5% eye drops						0
+1141171496	9	trospium						0
+1141172928	9	neoclarityn 5mg tablet						0
+1141174388	9	calcitriol	1	1		y		1
+2038459704	9	carbamazepine						0
+1140861924	8	bezafibrate						0
+1140861954	8	fenofibrate						0
+1140862574	8	pulmicort ls 50micrograms inhaler						0
+1140862776	8	clarityn 10mg tablet						0
+1140864950	8	bisoprolol fumarate+hydrochlorothiazide 10mg/6.25mg tablet						0
+1140865016	8	zolpidem						0
+1140865786	8	bisacodyl						0
+1140868482	8	tibolone						0
+1140869180	8	microgynon 30 tablet						0
+1140870862	8	calcichew forte 2.5g chewable tablet						0
+1140871168	8	voltarol 25mg e/c tablet						0
+1140871188	8	etodolac						0
+1140871472	8	naprosyn 250mg tablet						0
+1140871692	8	morphine						0
+1140872200	8	epilim 100mg crushable tablet						0
+1140875336	8	nabumetone						0
+1140878036	8	diclofenac sodium+misoprostol						0
+1140878236	8	calmurid cream						0
+1140879494	8	metoclopramide						0
+1140879792	8	terbutaline						0
+1140879854	8	sotalol						0
+1140879866	8	timolol						0
+1140879942	8	dithranol	1	1		y		1
+1140882728	8	otomize ear spray						0
+1140883468	8	clonidine						0
+1140888644	8	emollient product					y	1
+1140909936	8	indometacin						0
+1140911638	8	kelp+garlic product						0
+1140911682	8	selenium ace tablet						0
+1140923336	8	co-tenidone						0
+1140927086	8	arthrotec 50 tablet						0
+1140928284	8	moxonidine						0
+1141168752	8	peptac liquid						0
+1141169520	8	cosopt 2%/0.5% eye drops						0
+1141176668	8	celebrex 100mg capsule						0
+1141188146	8	simvador 10mg tablet						0
+1141192916	8	rino clenil 50micrograms nasal spray	1					0
+1141200878	8	oilatum bath formula liquid bath additive					y	1
+1205	8	saw palmetto product	1					0
+1140862236	7	atrovent 20micrograms inhaler						0
+1140865350	7	fybogel mebeverine sachet						0
+1140865416	7	colpermin 0.2ml m/r gel e/c capsule						0
+1140867504	7	priadel 200mg m/r tablet						0
+1140868364	7	prednisone					y	1
+1140871336	7	indomethacin						0
+1140871542	7	mefenamic acid						0
+1140878244	7	balneum bath oil					y	1
+1140879404	7	docusate sodium						0
+1140879620	7	clomipramine						0
+1140880272	7	coal tar 4.3% shampoo	1			y		1
+1140882542	7	fucidin cream					y	1
+1140882946	7	livial 2.5mg tablet						0
+1140883548	7	ipratropium						0
+1140888502	7	amiodarone						0
+1140888570	7	flecainide						0
+1140888762	7	ismn - isosorbide mononitrate	1					0
+1140910036	7	mtx - methotrexate	1				y	1
+1140911730	7	flax oil tablet	1					0
+1140916790	7	evorel 25 patch						0
+1140921814	7	mirena 52mg intrauterine system						0
+1140921822	7	mirena 20mcg/24hrs intrauterine system						0
+1140921828	7	dicloflex 25mg e/c tablet						0
+1140922562	7	femoston 1/10 tablet						0
+1140923018	7	anastrozole						0
+1140928274	7	ropinirole						0
+1141150620	7	zolmitriptan						0
+1141157458	7	hypromellose product						0
+1141168574	7	raloxifene hydrochloride						0
+1141168946	7	viagra 50mg tablet						0
+1141180314	7	ibandronic acid						0
+1141180392	7	cefalexin						0
+1141180936	7	calcium carbonate+colecalciferol 1.25g/5micrograms tablet						0
+1141185986	7	cetraben emollient cream					y	1
+1141192000	7	dutasteride						0
+1141192638	7	sebco ointment				y		1
+1203	7	aloe vera product						0
+1140857620	6	depo-provera 50mg/1ml injection						0
+1140858452	6	hepacon b12 1mg/1ml injection						0
+1140863182	6	nitrazepam						0
+1140864196	6	climagest 1mg tablet						0
+1140865336	6	spasmonal 60mg capsule						0
+1140865734	6	liquid paraffin					y	1
+1140866026	6	creon e/c granules in capsule						0
+1140866280	6	bumetanide						0
+1140870980	6	calcitriol product	1			y		1
+1140871666	6	piroxicam						0
+1140873394	6	doxycycline						0
+1140873608	6	erythromycin						0
+1140873966	6	trimethoprim						0
+1140874336	6	ketoconazole					y	1
+1140874370	6	aciclovir						0
+1140878412	6	psoriderm cream	1		1	y		1
+1140879906	6	coal tar+salicylic acid ointment bp	1			y		1
+1140881474	6	normacol granules						0
+1140882236	6	seroxat 20mg tablet						0
+1140882394	6	paracetamol + codeine						0
+1140882622	6	betamethasone+salicylic acid					y	1
+1140882794	6	clobetasol propionate+neomycin sulphate+nystatin	1				y	1
+1140883968	6	carmellose						0
+1140909578	6	losec 10mg capsule						0
+1140909844	6	ciclosporin	1	1			y	1
+1140909874	6	vitamin b6 preparation						0
+1140910832	6	sodium warfarin						0
+1140923852	6	elleste-solo 1mg tablet						0
+1140926988	6	bettamousse 0.12% foam	1				y	1
+1141156846	6	amias 2mg tablet						0
+1141157494	6	ispaghula husk product						0
+1141164652	6	unguentum m cream					y	1
+1141167038	6	rozex 0.75% cream						0
+1141168684	6	xenical 120mg capsule						0
+1141170844	6	liquid paraffin product					y	1
+1141171336	6	eprosartan						0
+1141172924	6	desloratadine						0
+1141176670	6	celebrex 200mg capsule						0
+1141185326	6	travatan 40micrograms/ml eye drops						0
+1141188588	6	adalimumab	1	1		y		1
+1141189464	6	exe-cort hydrocortisone 1% cream						0
+1141192414	6	crestor 10mg tablet						0
+1141193272	6	testogel 50mg gel 5g sachet						0
+1141193282	6	olmesartan						0
+1140851088	5	senokot 7.5mg tablet						0
+1140852756	5	vitamin a						0
+1140860976	5	imdur 60mg durule						0
+1140861120	5	coracten sr 10mg m/r capsule						0
+1140862722	5	nytol 25mg tablet						0
+1140864734	5	combivent inhaler						0
+1140867444	5	risperidone						0
+1140867726	5	lofepramine						0
+1140869034	5	ortho-gynest 500micrograms pessary						0
+1140869036	5	ovestin 0.1% vaginal cream						0
+1140869278	5	noriday tablet						0
+1140869362	5	femulen tablet						0
+1140871688	5	solpadol caplet						0
+1140872492	5	nicotine product						0
+1140872694	5	flucloxacillin						0
+1140878488	5	t/gel shampoo					y	1
+1140879782	5	indoramin						0
+1140880014	5	salicylic acid	1		1		y	1
+1140880102	5	dithranol 0.2% ointment bp	1			y		1
+1140881446	5	proctosedyl ointment						0
+1140881882	5	timoptol 0.25% eye drops						0
+1140882742	5	efcortelan 0.5% cream						0
+1140882778	5	lotriderm cream					y	1
+1140882904	5	canesten hc cream					y	1
+1140882908	5	hydrocortisone+miconazole					y	1
+1140888142	5	metosyn 0.05% cream					y	1
+1140888556	5	fosinopril						0
+1140888758	5	penicillin v						0
+1140910368	5	paraffin-white soft					y	1
+1140910494	5	b12 - hydroxocobalamin prep						0
+1140910698	5	oil of peppermint	1					0
+1140916270	5	liquid paraffin+white soft paraffin 50%/50% ointment					y	1
+1140917056	5	kliofem tablet						0
+1140923022	5	arimidex 1mg tablet						0
+1141146612	5	calceos chewable tablet						0
+1141150750	5	brimonidine tartrate						0
+1141168108	5	isotard 25xl m/r tablet						0
+1141176570	5	fosamax 5mg tablet						0
+1141178052	5	zapain caplet						0
+1141180226	5	amoxicillin						0
+1141181594	5	estriol product						0
+1141188658	5	asacol mr 400mg e/c tablet						0
+1141194224	5	allergy relief antihistamine 4mg tablet						0
+1141195232	5	budesonide+formoterol						0
+1141199858	5	cardioplen xl 5mg m/r tablet						0
+1141200384	5	vesicare 5mg tablet						0
+1140860790	4	enalapril maleate+hydrochlorothiazide 20mg/12.5mg tablet						0
+1140860904	4	trandolapril						0
+1140861166	4	dilzem sr 60mg long acting m/r capsule						0
+1140862380	4	becloforte 250micrograms inhaler						0
+1140862770	4	zirtek 10mg tablet						0
+1140862944	4	carbocisteine						0
+1140864966	4	salbutamol+ipratropium 100micrograms/20micrograms inhaler						0
+1140865564	4	imodium 2mg capsule						0
+1140865840	4	predfoam 20mg enema						0
+1140867818	4	nortriptyline						0
+1140868172	4	stemetil 5mg tablet						0
+1140868372	4	climaval 1mg tablet						0
+1140868458	4	hormonin tablet						0
+1140868532	4	testosterone product						0
+1140869324	4	loestrin 20 tablet						0
+1140870196	4	zoladex 3.6mg implant						0
+1140870932	4	ascorbic acid product						0
+1140870956	4	alfacalcidol						0
+1140871506	4	ketoprofen						0
+1140871984	4	dixarit 25mcg tablet						0
+1140872198	4	sodium valproate						0
+1140873450	4	tetracycline						0
+1140875392	4	plaquenil 200mg tablet						0
+1140875596	4	algesal cream						0
+1140876098	4	otrivine 0.1% nasal drops						0
+1140877892	4	voltarol emulgel						0
+1140878186	4	liquifilm tears 1.4% eye drops						0
+1140878246	4	balneum plus bath oil					y	1
+1140878450	4	dithrocream 2% cream	1			y		1
+1140878734	4	corsodyl original mouthwash						0
+1140879424	4	alverine						0
+1140879628	4	dothiepin						0
+1140880288	4	clotrimazole					y	1
+1140880306	4	nizoral 2% cream					y	1
+1140881414	4	gastrocote liquid						0
+1140881448	4	scheriproct ointment						0
+1140881702	4	adalate 10mg capsule						0
+1140882374	4	co-amoxiclav						0
+1140882464	4	daktarin 2% cream						0
+1140882498	4	penicillin						0
+1140882836	4	vioform hydrocortisone cream						0
+1140883476	4	procyclidine						0
+1140883500	4	azelastine						0
+1140883524	4	cinnarizine						0
+1140884676	4	fluocinolone						0
+1140888184	4	mometasone furoate 0.1% lotion	1				y	1
+1140888362	4	pyridoxine preparation						0
+1140888512	4	amiloride						0
+1140909780	4	colestyramine						0
+1140910058	4	neutrogena dermatological cream	1				y	1
+1140910498	4	flu - influenza vaccine	1					0
+1140910512	4	ismo - isosorbide mononitrate	1					0
+1140910548	4	iron sulphate	1					0
+1140916980	4	zantac 75 tablet						0
+1140917428	4	angitil sr 90 m/r capsule						0
+1140923276	4	co-amilozide						0
+1140925978	4	mycophenolate					y	1
+1140926940	4	flomax mr 400micrograms m/r capsule						0
+1140928004	4	zimovane ls 3.75mg tablet						0
+1141152590	4	glimepiride						0
+1141152848	4	quetiapine						0
+1141157332	4	sumatriptan product						0
+1141157418	4	budesonide product						0
+1141165512	4	kapake capsule						0
+1141166086	4	rennie duo oral suspension						0
+1141171152	4	cardicor 1.25mg tablet						0
+1141173328	4	ursodeoxycholic acid						0
+1141176732	4	carbomers						0
+1141178036	4	eltroxin 25micrograms tablet						0
+1141179920	4	lumigan 0.3mg/ml eye drops						0
+1141180342	4	beclometasone dipropionate+salbutamol						0
+1141185316	4	travoprost						0
+1141190158	4	cipralex 5mg tablet						0
+1141201038	4	valsartan+hydrochlorothiazide 80mg/12.5mg tablet						0
+1140857636	3	prempak 0.625 tablet						0
+1140860532	3	minoxidil						0
+1140860750	3	captopril						0
+1140861202	3	istin 5mg tablet						0
+1140862290	3	adrenaline product						0
+1140862526	3	sodium cromoglycate						0
+1140862640	3	tavegil 1mg tablet						0
+1140863292	3	ucerax 25mg tablet						0
+1140863302	3	lorazepam						0
+1140863442	3	oxazepam						0
+1140864472	3	xatral 2.5mg tablet						0
+1140864952	3	lisinopril+hydrochlorothiazide 10mg/12.5mg tablet						0
+1140865408	3	mebeverine hcl+ispaghula 135mg/3.5g/sachet granules						0
+1140865414	3	peppermint oil product						0
+1140865588	3	pentasa sr 250mg m/r tablet						0
+1140865686	3	dulco-lax 5mg e/c tablet						0
+1140868074	3	stugeron 15mg tablet						0
+1140868080	3	cyclizine						0
+1140868134	3	ondansetron						0
+1140868426	3	triamcinolone						0
+1140868580	3	norethisterone						0
+1140870284	3	prostap sr 3.75mg injection (pdr for recon)+diluent+kit						0
+1140870488	3	forceval capsule						0
+1140870512	3	cyanocobalamin product						0
+1140870556	3	slow-k 600mg m/r tablet						0
+1140871374	3	brufen 200mg tablet						0
+1140871684	3	remedeine tablet						0
+1140872036	3	paramax tablet						0
+1140872112	3	epanutin 25mg capsule						0
+1140873564	3	oxytetramix 250 tablet						0
+1140874126	3	nitrofurantoin						0
+1140874718	3	glibenclamide						0
+1140874866	3	carbimazole						0
+1140875616	3	ibugel gel						0
+1140875840	3	timolol 0.25% eye drops						0
+1140876154	3	flunisolide						0
+1140877630	3	calcium+ergocalciferol tablet						0
+1140877890	3	transvasin cream						0
+1140878280	3	ultrabase cream						0
+1140878516	3	pentrax shampoo						0
+1140879392	3	manevac granules						0
+1140879476	3	laxative						0
+1140879482	3	antacid tablet						0
+1140879502	3	olsalazine						0
+1140879630	3	imipramine						0
+1140880056	3	sulphur product						0
+1140880072	3	gamolenic acid						0
+1140880140	3	zineryt topical solution						0
+1140880208	3	azelaic acid						0
+1140880466	3	amorolfine						0
+1140881320	3	magnesium carbonate						0
+1140882082	3	promethazine product						0
+1140882272	3	oramorph 10mg/5ml oral solution						0
+1140883030	3	pred forte 1% eye drops	1					0
+1140883044	3	tri-adcortyl cream						0
+1140883162	3	combined oral contraceptive product						0
+1140883520	3	chlorpheniramine						0
+1140883534	3	ephedrine						0
+1140883706	3	nedocromil						0
+1140888628	3	hydrocortistab 1% cream					y	1
+1140909766	3	multivitamins capsule						0
+1140910522	3	paraffin liquid					y	1
+1140910640	3	luteine						0
+1140911640	3	lecithin product						0
+1140911698	3	slozem 120mg m/r capsule						0
+1140916948	3	e45 lotion	1				y	1
+1140917034	3	airomir 100micrograms cfc-free inhaler						0
+1140917394	3	diclomax sr 75mg m/r capsule						0
+1140922718	3	trusopt 2% ophthalmic solution						0
+1140923348	3	co-proxamol						0
+1140923572	3	adipine mr 10 m/r tablet						0
+1140928878	3	zumenon 1mg tablet						0
+1140928880	3	geltears gel						0
+1141145638	3	nasobec aqueous 50micrograms nasal spray						0
+1141146508	3	nasacort 55micrograms aqueous nasal spray						0
+1141151848	3	emulsiderm emollient emulsion					y	1
+1141152236	3	tazarotene	1	1		y		1
+1141152242	3	zorac 0.05% aqueous gel	1			y		1
+1141152860	3	seroquel 25mg tablet						0
+1141153006	3	aprovel 75mg tablet						0
+1141157178	3	senna product						0
+1141157412	3	ibuprofen product						0
+1141164060	3	pramipexole						0
+1141164616	3	protium 20mg e/c tablet						0
+1141167848	3	asasantin retard m/r capsule						0
+1141167932	3	rizatriptan						0
+1141168122	3	solpadol capsule						0
+1141168322	3	plavix 75mg tablet						0
+1141168590	3	pariet 10mg e/c tablet						0
+1141168648	3	solpadeine tablet						0
+1141171048	3	oxycontin 10mg m/r tablet						0
+1141171932	3	levetiracetam						0
+1141172492	3	micardis 20mg tablet						0
+1141173342	3	folinic acid						0
+1141174424	3	solaraze 3% gel						0
+1141177606	3	avandia 4mg tablet						0
+1141180150	3	arcoxia 90mg tablet						0
+1141184726	3	xalacom 0.005%/0.5% eye drops						0
+1141187818	3	cialis 20mg tablet						0
+1141188210	3	berocca effervescent tablet						0
+1141188512	3	non-drowsy sinutab tablet						0
+1141188766	3	duac once daily gel						0
+1141188836	3	felendil xl 5mg m/r tablet						0
+1141191312	3	calfovit d3 powder for oral suspension						0
+1141193170	3	eccoxolac 300mg capsule						0
+1141193346	3	olmetec 10mg tablet						0
+1141195280	3	novolizer budesonide 200micrograms/dose cartridge+inhaler						0
+1141200108	3	cymalon cranberry 1.5g/5ml liquid						0
+1141201244	3	eplerenone						0
+1141201834	3	cymbalta 30mg gastro-resistant capsule						0
+1140852766	2	vitamin a+d capsule						0
+1140854076	2	macrogol ointment						0
+1140856342	2	syndol tablet						0
+1140857690	2	oestradiol 25mg implant 36 week						0
+1140859220	2	fusidic acid					y	1
+1140860358	2	tenif capsule						0
+1140860418	2	propranolol hydrochloride+bendrofluazide 80mg/2.5mg capsule						0
+1140860690	2	cardura 1mg tablet						0
+1140860728	2	quinapril						0
+1140861416	2	paroven 250mg capsule						0
+1140861588	2	enoxaparin						0
+1140861884	2	maxepa 1g capsule						0
+1140861936	2	questran 4g/sachet powder						0
+1140861970	2	lipostat 10mg tablet						0
+1140861996	2	salbulin 100micrograms inhaler						0
+1140862026	2	ciprofibrate						0
+1140862060	2	ventolin 2mg tablet						0
+1140862810	2	phenergan 10mg tablet						0
+1140863286	2	atarax 10mg tablet						0
+1140865370	2	topal tablet						0
+1140865382	2	merbentyl 10mg tablet						0
+1140865418	2	mintec 0.2ml e/c capsule						0
+1140865576	2	cholestyramine						0
+1140865762	2	regulan 3.6g/sachet powder						0
+1140866420	2	moduretic tablet						0
+1140866466	2	securon 40mg tablet						0
+1140867168	2	haloperidol						0
+1140867456	2	modecate 12.5mg/0.5ml oily injection						0
+1140867756	2	trimipramine						0
+1140867948	2	amitriptyline hydrochloride+perphenazine 10mg/2mg tablet						0
+1140867952	2	fluanxol 500micrograms tablet						0
+1140867998	2	motilium 10mg tablet						0
+1140868192	2	buccastem 3mg tablet						0
+1140868406	2	conjugated oestrogens						0
+1140868456	2	oestradiol product						0
+1140868514	2	trisequens tablet						0
+1140868538	2	sustanon 100 oily injection						0
+1140868816	2	desmopressin						0
+1140869176	2	logynon tablet						0
+1140869262	2	ovysmen tablet						0
+1140870486	2	folicin tablet						0
+1140870504	2	hydroxocobalamin product						0
+1140871052	2	calcium carbonate+cholecalciferol 1.25g/5micrograms tablet						0
+1140871236	2	flurbiprofen						0
+1140871238	2	froben 50mg tablet						0
+1140871776	2	mst continus 10mg m/r tablet	1					0
+1140871996	2	sanomigran 500micrograms tablet						0
+1140872026	2	migraleve duopack tablet						0
+1140872058	2	migril tablet						0
+1140872064	2	carbamazepine product						0
+1140872150	2	clonazepam						0
+1140872590	2	phenoxymethylpenicillin						0
+1140873474	2	lymecycline						0
+1140873780	2	co-trimoxazole						0
+1140873986	2	isoniazid						0
+1140874138	2	ciprofloxacin						0
+1140874346	2	miconazole						0
+1140874746	2	diamicron 80mg tablet						0
+1140874826	2	glucagon product						0
+1140875338	2	relifex 500mg tablet						0
+1140875346	2	tenoxicam						0
+1140875546	2	piroxicam 0.5% gel						0
+1140875566	2	chloramphenicol 1% eye ointment						0
+1140875630	2	movelat cream						0
+1140875632	2	movelat gel						0
+1140875642	2	ketoprofen 2.5% gel						0
+1140876006	2	polyvinyl alcohol 1% eye drops						0
+1140876384	2	glandosane plain spray						0
+1140876394	2	salivix pastille						0
+1140876430	2	urea 10% cream	1				y	1
+1140877872	2	voltaren retard 100mg m/r tablet						0
+1140877958	2	heparinoid+salicylic acid 0.2%/2% cream						0
+1140878184	2	sno-tears eye drops						0
+1140878252	2	hydromol emollient bath additive					y	1
+1140878258	2	diprobath bath additive					y	1
+1140878348	2	alphosyl lotion	1			y		1
+1140878444	2	dithrocream 0.25% cream	1			y		1
+1140878446	2	dithrocream forte 0.5% cream	1			y		1
+1140878448	2	dithrocream hp 1% cream	1			y		1
+1140878506	2	selsun shampoo					y	1
+1140878508	2	psoriderm shampoo	1			y		1
+1140879762	2	celiprolol						0
+1140879798	2	terazosin						0
+1140879926	2	coal tar 40% bath emulsion	1			y		1
+1140879934	2	coal tar extract+hydrocortisone 3%/0.25% cream	1			y		1
+1140879940	2	coal tar extract+allantoin 5%/2% cream	1			y		1
+1140880256	2	coal tar extract 2% shampoo	1			y		1
+1140880460	2	tioconazole					y	1
+1140880462	2	metrogel 0.75% gel						0
+1140880680	2	influenza vaccine						0
+1140880726	2	hirudoid cream						0
+1140880956	2	fentanyl						0
+1140881026	2	meptazinol						0
+1140881442	2	anusol hc ointment						0
+1140881748	2	zocor 10mg tablet	1					0
+1140882474	2	lamisil 1% cream						0
+1140882708	2	clobetasone butyrate+neomycin sulphate	1				y	1
+1140882818	2	alphaderm cream					y	1
+1140882906	2	hydrocortisone+clotrimazole					y	1
+1140884074	2	gentisone hc ear drops						0
+1140884452	2	codeine linctus						0
+1140884512	2	liothyronine						0
+1140884560	2	nefopam						0
+1140884636	2	diflucortolone						0
+1140884640	2	nerisone 0.1% cream					y	1
+1140884646	2	modrasone 0.05% cream					y	1
+1140888178	2	haelan 0.0125% cream					y	1
+1140888432	2	potassium product						0
+1140888438	2	glucose product						0
+1140888578	2	antihypertensive						0
+1140888594	2	fluvastatin						0
+1140888630	2	hydrocortisyl 1% cream	1				y	1
+1140888676	2	naftidrofuryl						0
+1140909354	2	motifene 75mg e/c+m/r capsule						0
+1140909706	2	chlortalidone						0
+1140909848	2	diethylstilbestrol						0
+1140909864	2	azt - azathioprine	1				y (eczema only)	0
+1140909876	2	calciferol						0
+1140909954	2	acyclovir						0
+1140910382	2	cya - cyclosporin	1				y	1
+1140910670	2	niacin						0
+1140910706	2	phenobarbital						0
+1140910750	2	glycerol suppository	1					0
+1140911636	2	kalms tablet						0
+1140911642	2	tacrolimus						0
+1140911754	2	anadin tablet						0
+1140912228	2	b12 - cyanocobalamin prep						0
+1140916288	2	efexor 37.5mg tablet						0
+1140916608	2	rozex 0.75% gel						0
+1140917306	2	bicalutamide						0
+1140917450	2	oestrogel 1.25g gel						0
+1140921938	2	diethylamine salicylate 10% cream bp						0
+1140922714	2	dorzolamide						0
+1140922806	2	premique cycle 10mg tablet						0
+1140923484	2	topiramate						0
+1140923598	2	fematrix 40 patch						0
+1140925808	2	preservex 100mg tablet						0
+1140926778	2	diltiazem hcl+hydrochlorothiazide 150mg/12.5mg m/r capsule						0
+1140926922	2	antihistamine 60mg tablet						0
+1140928222	2	andropatch 2.5mg/24hours transdermal patch						0
+1141145630	2	nitromin 400micrograms cfc-free spray						0
+1141145668	2	diovan 40mg capsule						0
+1141145870	2	fortipine la40 m/r tablet						0
+1141145896	2	letrozole						0
+1141145900	2	femara 2.5mg tablet						0
+1141146426	2	balneum plus cream					y	1
+1141150624	2	zomig 2.5mg tablet						0
+1141151284	2	naratriptan						0
+1141151288	2	naramig 2.5mg tablet						0
+1141152520	2	zidoval 0.75% vaginal gel						0
+1141153236	2	oxis 6micrograms turbohaler	1					0
+1141153490	2	amisulpride						0
+1141156984	2	amaryl 1mg tablet						0
+1141157132	2	singulair 10mg tablet						0
+1141157254	2	isosorbide mononitrate product						0
+1141157324	2	loratadine product						0
+1141157356	2	erythromycin product						0
+1141157364	2	metronidazole product						0
+1141157402	2	prednisolone product					y	1
+1141157414	2	salicylic acid product	1				y	1
+1141162526	2	benadryl allergy relief 8mg capsule						0
+1141163146	2	beclo-aqua 50 nasal spray						0
+1141164746	2	dexketoprofen						0
+1141165028	2	artelac 0.32% single-use eye drops						0
+1141165476	2	triapin mite 2.5mg/2.5mg tablet						0
+1141166200	2	implanon 68mg subdermal implant						0
+1141166302	2	arava 10mg tablet						0
+1141166858	2	chemydur 60xl m/r tablet						0
+1141167708	2	beclomist 50micrograms nasal spray						0
+1141167744	2	neoral 10mg capsule	1				y	1
+1141167940	2	maxalt 5mg tablet						0
+1141168660	2	repaglinide						0
+1141169516	2	dorzolamide+timolol						0
+1141169530	2	brexidol 20mg tablet						0
+1141169694	2	difflam sore throat 0.15% oral rinse						0
+1141171038	2	oxycodone hydrochloride						0
+1141171104	2	aromasin 25mg tablet						0
+1141171404	2	zaleplon						0
+1141172698	2	monomax xl 60mg m/r tablet						0
+1141172838	2	depakote 250mg e/c tablet						0
+1141173346	2	cortisone	1	1	1		y	1
+1141174500	2	sibutramine						0
+1141174508	2	reductil 10mg capsule						0
+1141176284	2	brinzolamide						0
+1141176288	2	azopt 10mg/ml eye drops						0
+1141179842	2	tacrolimus monohydrate 0.03% ointment					y	1
+1141180148	2	arcoxia 60mg tablet						0
+1141180662	2	zirtek allergy 10mg tablet						0
+1141181562	2	benadryl one a day 10mg tablet						0
+1141184722	2	latanoprost+timolol						0
+1141185480	2	ispagel 3.5g/sachet s/f powder						0
+1141186100	2	canesten complete cream						0
+1141187336	2	elidel 1% cream					y	1
+1141187776	2	nurofen 200mg tablet						0
+1141187814	2	cialis 10mg tablet						0
+1141189090	2	rosiglitazone 1mg / metformin 500mg tablet						0
+1141190482	2	fluconazole 150mg capsule + clotrimazole 2% cream						0
+1141190960	2	tramacet 325mg/37.5mg tablet						0
+1141192154	2	metrosa 0.75% gel						0
+1141192378	2	ketopine 2% shampoo						0
+1141195224	2	formoterol						0
+1141200400	2	amlostin 5mg tablet						0
+1141200640	2	easyhaler salbutamol 100mcg breath-actuated dry powder inh						0
+1141200748	2	care ibuprofen 10% gel	1					0
+1141201130	2	efalizumab				y		1
+1140851218	1	anacal ointment						0
+1140852908	1	multivite pellet						0
+1140852946	1	"calciferol high-str. 10,000units tablet"						0
+1140853186	1	chloramphenicol eye drops						0
+1140853200	1	bromelains						0
+1140854254	1	dermacare cream 100ml					y	1
+1140854432	1	cortacream 1% band					y	1
+1140854834	1	fluocortolone						0
+1140855380	1	salbuvent 100micrograms inhaler						0
+1140855562	1	benadryl 25mg capsule						0
+1140856238	1	panadol 500mg capsule						0
+1140856240	1	panadol 500mg tablet						0
+1140857200	1	calcium sulphaloxate						0
+1140858448	1	neo-cytamen 250micrograms/1ml injection						0
+1140860324	1	tenoret 50 tablet						0
+1140860332	1	sotalol hydrochloride+hydrochlorothiazide 80mg/12.5mg tablet						0
+1140860470	1	methyldopa						0
+1140860498	1	celectol 200mg tablet						0
+1140860836	1	coro-nitro spray 400micrograms spray						0
+1140860838	1	gtn 300micrograms sublingual tablet	1					0
+1140860846	1	suscard 1mg m/r buccal tablet						0
+1140860972	1	ismo 10 tablet	1					0
+1140860994	1	isib 20mg tablet						0
+1140861176	1	cardene 20mg capsule						0
+1140861326	1	hexopal 500mg tablet						0
+1140861780	1	persantin 25mg tablet						0
+1140861808	1	disprin cv 100mg m/r tablet						0
+1140861834	1	cyklokapron 500mg tablet						0
+1140861858	1	lopid 300 capsule						0
+1140861892	1	acipimox						0
+1140862016	1	ventodisks 200micrograms/blister disks+diskhaler						0
+1140862140	1	pulmadil 200micrograms inhaler						0
+1140862260	1	aminophylline						0
+1140862266	1	phyllocontin continus 225mg m/r tablet						0
+1140862414	1	nuelin 125mg tablet						0
+1140862424	1	slo-phyllin 60mg m/r capsule						0
+1140862438	1	uniphyllin continus 200mg m/r tablet						0
+1140862474	1	aerobec 50mcg autohaler						0
+1140862532	1	intal 5mg inhaler						0
+1140862560	1	ventide inhaler						0
+1140862624	1	chlorpheniramine maleate						0
+1140862742	1	vallergan 10mg tablet						0
+1140862760	1	acrivastine						0
+1140862886	1	pholcodine						0
+1140862952	1	mucodyne 375mg capsule						0
+1140862998	1	sudafed co tablet						0
+1140863092	1	galpseud 60mg tablet						0
+1140863098	1	sudafed 60mg tablet						0
+1140863120	1	loprazolam						0
+1140863244	1	valium 2mg tablet						0
+1140863320	1	lexotan 1.5mg tablet						0
+1140863328	1	chlordiazepoxide						0
+1140864070	1	kapake tablet						0
+1140864424	1	famciclovir						0
+1140864558	1	capsaicin 0.075% cream						0
+1140864566	1	cabergoline						0
+1140864618	1	zestoretic 10 tablet						0
+1140864820	1	cutivate 0.05% cream	1				y	1
+1140864860	1	nu-seals aspirin 75mg e/c tablet						0
+1140865000	1	zydol 50mg capsule						0
+1140865186	1	aluminium hydroxide product						0
+1140865192	1	alu-cap capsule						0
+1140865378	1	dicyclomine hydrochloride						0
+1140865618	1	nizatidine						0
+1140865628	1	misoprostol						0
+1140865654	1	codeine phosphate+kaolin 10mg/3g/10ml mixture						0
+1140865772	1	methylcellulose						0
+1140865996	1	ursodeoxycholic acid product						0
+1140865998	1	destolit 150mg tablet						0
+1140866162	1	hydrochlorothiazide						0
+1140866318	1	spirolone 25mg tablet						0
+1140866402	1	dyazide tablet						0
+1140866450	1	bendrofluazide+potassium 2.5mg/7.7mmol m/r tablet						0
+1140866460	1	half securon sr 120mg m/r tablet						0
+1140866612	1	arythmol 150mg tablet						0
+1140866756	1	tenormin 25 tablet						0
+1140866800	1	half-inderal la 80mg m/r capsule						0
+1140866804	1	inderal 10mg tablet						0
+1140867092	1	serenace 500micrograms capsule						0
+1140867150	1	flupenthixol						0
+1140867184	1	haldol 5mg tablet						0
+1140867244	1	stelazine 1mg tablet						0
+1140867304	1	sulpiride						0
+1140867494	1	camcolit 250 tablet						0
+1140867690	1	anafranil 10mg capsule						0
+1140867850	1	phenelzine						0
+1140867884	1	lustral 50mg tablet						0
+1140867914	1	tranylcypromine						0
+1140867960	1	tryptophan product						0
+1140868120	1	trifluoperazine						0
+1140868342	1	acupan 30mg tablet						0
+1140868422	1	harmogen 1.5mg tablet						0
+1140868460	1	progynova 1mg tablet						0
+1140868496	1	duphaston 10mg tablet						0
+1140868518	1	nuvelle tablet						0
+1140868520	1	estracombi tts patch						0
+1140868536	1	restandol 40mg capsule						0
+1140868588	1	progesterone product						0
+1140868772	1	didronel 200mg tablet						0
+1140868902	1	acarbose						0
+1140868968	1	danazol						0
+1140869100	1	alprostadil						0
+1140869162	1	marvelon tablet						0
+1140869164	1	mercilon tablet						0
+1140869184	1	ovran 30 tablet						0
+1140869186	1	ovranette tablet						0
+1140869266	1	trinovum tablet						0
+1140869270	1	medroxyprogesterone						0
+1140869334	1	femodene tablet						0
+1140869346	1	cilest tablet						0
+1140869366	1	levonorgestrel						0
+1140869370	1	norgeston tablet						0
+1140869412	1	potassium citrate 3g/sachet granules						0
+1140869482	1	urispas 200mg tablet						0
+1140869492	1	ditropan 2.5mg tablet						0
+1140869604	1	cyclophosphamide						0
+1140869978	1	hydroxyurea						0
+1140870520	1	cytamen 1mg/1ml injection						0
+1140870852	1	vitamin a product						0
+1140870900	1	phosphate-sandoz tablet						0
+1140870946	1	redoxon 25mg tablet						0
+1140871004	1	vitamins b+c						0
+1140871138	1	vitamin k product						0
+1140871162	1	vitamins capsule bpc						0
+1140871180	1	rhumalgan 25mg e/c tablet						0
+1140871522	1	oruvail 100 m/r capsule						0
+1140871528	1	ketovail 100mg m/r capsule						0
+1140871638	1	napratec tablet combination pack						0
+1140871680	1	tylex capsule						0
+1140871724	1	oramorph sr 100mg m/r tablet						0
+1140871734	1	temgesic 200mcg sublingual tablet						0
+1140871738	1	temgesic 400mcg sublingual tablet						0
+1140871778	1	oramorph 10mg/5ml oral unit dose vial						0
+1140871986	1	clonidine hydrochloride 25micrograms tablet						0
+1140872132	1	primidone						0
+1140872160	1	ethosuximide						0
+1140872214	1	valproic acid						0
+1140872236	1	neurontin 100mg capsule						0
+1140872302	1	lamictal 25mg tablet						0
+1140872338	1	madopar 62.5 capsule						0
+1140872440	1	symmetrel 100mg capsule						0
+1140872484	1	antabuse 200mg tablet						0
+1140873476	1	tetralysal 300 capsule						0
+1140873480	1	minocycline						0
+1140873650	1	clindamycin						0
+1140873712	1	erythroped a 500mg tablet						0
+1140873904	1	capastat 1g injection (pdr for recon)						0
+1140873908	1	cycloserine						0
+1140873934	1	septrin forte 960mg tablet						0
+1140874034	1	flagyl 400mg tablet						0
+1140874104	1	dapsone						0
+1140874192	1	macrodantin 100mg capsule						0
+1140874272	1	fluconazole						0
+1140874646	1	glipizide						0
+1140874674	1	tolbutamide						0
+1140874784	1	florinef 100mcg tablet						0
+1140874950	1	prednesol 5mg tablet						0
+1140874976	1	methylprednisolone						0
+1140875278	1	acemetacin						0
+1140875306	1	myocrisin 20mg/0.5ml injection						0
+1140875308	1	myocrisin 50mg/0.5ml injection						0
+1140875404	1	ridaura 3mg tablet						0
+1140875496	1	sulphinpyrazone						0
+1140875508	1	neostigmine						0
+1140875538	1	methyl salicylate ointment bp	1				y	1
+1140875620	1	difflam cream						0
+1140875628	1	axsain cream						0
+1140875712	1	minims atropine sulphate 1% single-use eye drops						0
+1140875816	1	pilocarpine						0
+1140875870	1	diamox 250mg tablet						0
+1140875974	1	locorten-vioform ear drops						0
+1140876024	1	paraffin-yellow soft						0
+1140876052	1	syntaris 25micrograms nasal spray						0
+1140876088	1	sudafed 0.05% nasal spray						0
+1140876118	1	cerumol ear drops						0
+1140876146	1	rhinocort 50micrograms nasal spray						0
+1140876240	1	adcortyl in orabase oral paste						0
+1140876314	1	hydrous ointment bp					y	1
+1140876344	1	benzalkonium chloride+dimethicone 350 0.1/22% cream						0
+1140876350	1	cod liver oil+zinc oxide 11.4/38% ointment	1					0
+1140876408	1	cetomacrogol formula a cream bp						0
+1140876422	1	soap substitute+zinc oxide 5% cream wash						0
+1140876452	1	dermacort cream						0
+1140876508	1	calamine						0
+1140876588	1	ergocalciferol product						0
+1140877632	1	calciferol 250micrograms tablet						0
+1140877826	1	sodium bicarbonate						0
+1140877954	1	feldene 0.5% gel						0
+1140878060	1	alomide eye drops						0
+1140878098	1	betagan eye drops						0
+1140878170	1	hypotonic artificial tears eye drops						0
+1140878172	1	tears naturale eye drops						0
+1140878182	1	hypotears eye drops						0
+1140878190	1	minims artificial tears single-use eye drops						0
+1140878266	1	eurax cream					y	1
+1140878288	1	unguentum merck cream					y	1
+1140878416	1	psoriderm bath emulsion	1			y		1
+1140878514	1	meted shampoo					y	1
+1140878546	1	retin-a 0.025% cream						0
+1140878580	1	condyline solution						0
+1140878592	1	canesten 1% dusting powder						0
+1140878672	1	trosyl nail solution						0
+1140878676	1	loceryl nail lacquer						0
+1140879644	1	amantadine						0
+1140879658	1	chlorpromazine						0
+1140879730	1	buspirone						0
+1140879746	1	promazine						0
+1140879810	1	nicardipine						0
+1140879824	1	labetalol						0
+1140879826	1	levobunolol						0
+1140879894	1	hydrocal 1% cream						0
+1140879928	1	coal tar+lecithin 6/0.4% cream	1			y		1
+1140879930	1	strong coal tar solution+pine tar 5/5% gel				y		1
+1140879938	1	coal tar extract+allantoin 5%/2% lotion	1			y		1
+1140880008	1	ichthammol						0
+1140880046	1	benzoyl peroxide+miconazole nitrate 5%/2% cream						0
+1140880146	1	erythromycin+zinc acetate 40mg/12mg/ml topical solution						0
+1140880200	1	dalacin t topical solution						0
+1140880314	1	daktarin 0.16% powder spray						0
+1140880324	1	nystaform cream						0
+1140880342	1	mupirocin						0
+1140881334	1	co-phenotrope						0
+1140881440	1	anugesic-hc cream						0
+1140881444	1	proctofoam hc foam						0
+1140881612	1	naproxen+misoprostol						0
+1140881624	1	co-danthrusate						0
+1140881842	1	heparin						0
+1140881922	1	becodisks 100micrograms disks+diskhaler						0
+1140881938	1	beclomethasone dipropionate+salbutamol						0
+1140882072	1	ilube eye drops	1					0
+1140882104	1	hyoscine						0
+1140882112	1	co-careldopa						0
+1140882160	1	rynacrom 2% nasal drops						0
+1140882230	1	gastroflux 10mg tablet						0
+1140882320	1	clozaril 25mg tablet						0
+1140882392	1	aspirin+codeine						0
+1140882472	1	lamisil 250mg tablet						0
+1140882478	1	zovirax 5% cream						0
+1140882538	1	chloramphenicol 0.25% eye drops						0
+1140882544	1	fucidin ointment					y	1
+1140882626	1	betnesol 0.1% eye/ear/nose drops						0
+1140882722	1	maxidex eye drops						0
+1140882730	1	colifoam 10% foam						0
+1140882732	1	dioderm cream						0
+1140882768	1	vista-methasone n eye/ear/nose drops						0
+1140882806	1	clobetasone butyrate+oxytetracycline+nystatin	1				y	1
+1140882820	1	calmurid hc cream					y	1
+1140882850	1	hydrocortisone+clioquinol						0
+1140882896	1	hydrocortisone+lignocaine						0
+1140882918	1	hydrocortisone+fusidic acid					y	1
+1140882920	1	fucidin h cream					y	1
+1140882962	1	human menopausal gonadotrophins						0
+1140883028	1	predsol 0.5% eye/ear drops						0
+1140883040	1	adcortyl 0.1% cream						0
+1140883478	1	pyridostigmine						0
+1140883594	1	glycopyrronium						0
+1140883600	1	diphenhydramine product						0
+1140883676	1	cough/decongestant preparation						0
+1140883820	1	clinitar 2.5% gel						0
+1140883858	1	dantrolene						0
+1140883914	1	flavoxate						0
+1140884136	1	topical miconazole						0
+1140884402	1	pentazocine						0
+1140884404	1	paracetamol+caffeine						0
+1140884498	1	felbinac						0
+1140884544	1	leuprorelin						0
+1140884558	1	ketorolac						0
+1140884622	1	oestrogen product						0
+1140884634	1	cyproterone						0
+1140884638	1	clomiphene						0
+1140884642	1	alclometasone						0
+1140884704	1	cortisone product	1				y	1
+1140884706	1	megestrol						0
+1140888134	1	eczederm+hydrocortisone cream						0
+1140888350	1	menadiol						0
+1140888460	1	electrolade product						0
+1140888638	1	interferon alfa-2a						0
+1140888686	1	hydralazine						0
+1140888760	1	isdn - isosorbide dinitrate	1					0
+1140888818	1	mestinon 60mg tablet						0
+1140909482	1	opticrom allergy eye drops						0
+1140909500	1	tagamet 100 tablet						0
+1140909742	1	iocare balanced salt solution						0
+1140909748	1	methenamine hippurate						0
+1140909754	1	ribavirin						0
+1140909792	1	alimemazine						0
+1140909800	1	flupentixol						0
+1140909816	1	trihexyphenidyl						0
+1140909870	1	retinol product						0
+1140909872	1	vitamin b1 preparation						0
+1140909878	1	vitamin d2						0
+1140909904	1	tri-iodothyronine product						0
+1140909952	1	fludroxycortide						0
+1140910372	1	chloramiphene						0
+1140910416	1	ung emuls - ungentum emulsificans	1				y	1
+1140910424	1	hc - hydrocortisone	1				y	1
+1140910442	1	bzt - bendrofluazide	1					0
+1140910552	1	folate product						0
+1140910566	1	glyclizide						0
+1140910600	1	aminosalicylic acid						0
+1140910734	1	disodium cromoglycate						0
+1140910736	1	cromolyn sodium						0
+1140910772	1	ikorel 10mg tablet						0
+1140910776	1	cantassium vitamin b6 50mg tablet						0
+1140910814	1	sodium thyroxine						0
+1140910824	1	ursodesoxycholic acid						0
+1140911572	1	eye-crom aqueous eye drops						0
+1140911748	1	ibuprofen+menthol 5%/3% gel						0
+1140911750	1	deep relief ibuprofen gel						0
+1140911762	1	lemsip sachet						0
+1140911816	1	strepsils lozenge						0
+1140911830	1	durogesic 25micrograms/hour patch						0
+1140911832	1	durogesic 50micrograms/hour patch						0
+1140916274	1	dithranol+salicylic acid 0.25%/1.6% scalp gel				y		1
+1140916276	1	psorin scalp gel	1			y		1
+1140916342	1	beta-blocker						0
+1140916846	1	bactroban 2% nasal ointment						0
+1140917062	1	natrasleep tablet						0
+1140917096	1	andrews liver salts powder						0
+1140917216	1	tenkorex 125mg/5ml suspension						0
+1140917432	1	rapitil 2% eye drops						0
+1140921088	1	tridestra tablet						0
+1140921818	1	iopidine ophthalmic 0.5% intra-ocular solution						0
+1140922344	1	dermamist spray						0
+1140923272	1	co-triamterzide						0
+1140923568	1	norimode 2mg tablet						0
+1140923648	1	methodex 1mg/1ml mixture						0
+1140923788	1	monomax sr 40 m/r capsule						0
+1140923920	1	volsaid retard 75mg m/r tablet						0
+1140925806	1	aceclofenac						0
+1140925986	1	cellcept 250mg capsule						0
+1140926004	1	entocort cr 3mg m/r capsule						0
+1140926626	1	saliveze spray						0
+1140926794	1	mobic 7.5mg tablet						0
+1140926796	1	mobic 15mg tablet						0
+1140927338	1	compound coconut ointment						0
+1140927692	1	topamax 25mg tablet						0
+1140928142	1	lamivudine						0
+1140928276	1	humatrope(rbe) 18iu(6mg) inj cartridge(pdr for recon)+dil						0
+1140928372	1	zydol soluble 50mg tablet						0
+1140928384	1	ritonavir						0
+1140928392	1	norvir 100mg capsule						0
+1141145830	1	fybozest orange 3.5g s/f granules						0
+1141145880	1	cacit d3 granules	1					0
+1141146324	1	adapalene						0
+1141146422	1	urea+lauromacrogols 5%/3% cream					y	1
+1141150430	1	dermacare cream 150ml					y	1
+1141150596	1	avonex 6million iu injection (pdr for recon)+solvent	1					0
+1141150754	1	alphagan 0.2% eye drops						0
+1141150866	1	maxolon 5mg tablet						0
+1141151018	1	cozaar-comp 50mg/12.5mg tablet						0
+1141151026	1	eurax hc cream					y	1
+1141151946	1	cipramil 10mg tablet						0
+1141152228	1	elleste-solo mx 40 patch						0
+1141152988	1	zomorph 30mg m/r capsule						0
+1141153032	1	zanidip 10mg tablet						0
+1141153080	1	nytol 25mg caplet						0
+1141153242	1	balsalazide disodium						0
+1141153248	1	colazide 750mg capsule						0
+1141153424	1	zamadol sr 100mg m/r capsule						0
+1141156738	1	paludrine tablet+avloclor tablet 100mg/250mg travel pack						0
+1141157060	1	mizollen 10mg m/r tablet						0
+1141157264	1	salmeterol product						0
+1141157304	1	clotrimazole product						0
+1141157470	1	fentanyl product						0
+1141157480	1	co-magaldrox product						0
+1141162544	1	lipantil micro 67mg capsule						0
+1141162940	1	e45 emollient bath oil	1				y	1
+1141162970	1	optilast 0.05% eye drops						0
+1141164068	1	mirapexin 0.088mg tablet						0
+1141164836	1	eucerin 10% cream					y	1
+1141164872	1	sinemet-62.5 tablet						0
+1141165244	1	rofecoxib						0
+1141165514	1	rebetol 200mg capsule						0
+1141165852	1	abacavir						0
+1141166746	1	capsaicin 0.025% cream						0
+1141166998	1	imodium plus 2mg/125mg chewable tablet						0
+1141167206	1	oestrogel 0.06% gel						0
+1141167678	1	pharmaton capsule						0
+1141167876	1	aldara 5% cream						0
+1141167990	1	oilatum fragrance free liquid bath additive						0
+1141168578	1	evista 60mg tablet	1					0
+1141168948	1	viagra 100mg tablet						0
+1141170768	1	urea 10% lotion	1				y	1
+1141171100	1	exemestane						0
+1141171116	1	dromadol sr 100mg m/r tablet						0
+1141171344	1	teveten 300mg tablet						0
+1141171548	1	zimbacol xl 400mg m/r tablet						0
+1141171672	1	sudafed dual relief capsule						0
+1141172120	1	periostat 20mg capsule						0
+1141172224	1	acidex oral suspension						0
+1141172486	1	interferon beta						0
+1141172628	1	almogran 12.5mg tablet						0
+1141172682	1	irbesartan+hydrochlorothiazide 150mg/12.5mg tablet						0
+1141172728	1	almotriptan						0
+1141172910	1	lamisil at 1% cream						0
+1141173766	1	calchan mr 10mg m/r tablet						0
+1141173814	1	zoledronic acid						0
+1141173888	1	xismox xl 60 m/r tablet						0
+1141174262	1	otrivine mu-cron tablet						0
+1141174512	1	budesonide+eformoterol						0
+1141175204	1	oxcarbazepine						0
+1141175756	1	migramax sachet powder						0
+1141175978	1	benadryl skin allergy relief cream						0
+1141177686	1	fersamal tablet						0
+1141177762	1	risperdal 0.5mg tablet						0
+1141177826	1	micropirin 75mg e/c tablet						0
+1141178054	1	zapain capsule						0
+1141178816	1	aranesp 10micrograms/0.4ml prefilled syringe						0
+1141179066	1	pulvinal salbutamol 200mcg breath-act dry powder inhaler						0
+1141179072	1	pulvinal beclomethasone diprop 100mcg breath-act dry pdr inh						0
+1141179830	1	piriteze 10mg tablet						0
+1141179914	1	bimatoprost						0
+1141180152	1	arcoxia 120mg tablet						0
+1141180592	1	perindopril+indapamide						0
+1141180598	1	coversyl plus 4mg/1.25mg tablet						0
+1141180766	1	novofem tablet						0
+1141180778	1	atenolol+chlortalidone						0
+1141181056	1	dimeticone 1000+cetrimide 10%/0.3% cream						0
+1141181186	1	co-zidocapt 25mg/12.5mg tablet						0
+1141181872	1	defanac 25mg e/c tablet						0
+1141182110	1	sulfadiazine						0
+1141182674	1	fenactol 25mg e/c tablet						0
+1141183332	1	panadol actifast 500mg tablet						0
+1141184608	1	vivabec 50micrograms nasal spray						0
+1141185108	1	aveeno lotion					y	1
+1141185284	1	imatinib						0
+1141186288	1	clearsore aciclovir 5% cream						0
+1141186750	1	biotene oralbalance oral gel						0
+1141186800	1	viraferonpeg 120mcg pdr+solv for soln for inj prefilled pen						0
+1141186960	1	pimecrolimus						0
+1141187230	1	care cetirizine hayfever relief 10mg tablet	1					0
+1141187280	1	acea 0.75% gel	1					0
+1141187304	1	codipar caplet						0
+1141188408	1	tritace 1.25mg tablet						0
+1141188426	1	gavilast-p 75mg tablet						0
+1141188640	1	avonex 6million iu/0.5ml prefilled syringe	1					0
+1141188642	1	avonex 30micrograms/0.5ml prefilled syringe	1					0
+1141188900	1	sulazine ec 500mg e/c tablet						0
+1141189134	1	stalevo 50mg / 12.5mg / 200mg tablet						0
+1141189380	1	emtricitabine						0
+1141189776	1	monomil xl 60mg m/r tablet						0
+1141190160	1	vascalpha 5mg m/r tablet						0
+1141190244	1	rhinolast 0.1% nasal spray						0
+1141190554	1	atazanavir						0
+1141190956	1	paracetamol+tramadol						0
+1141191748	1	respiratory mometasone						0
+1141191774	1	optrex allergy eye drops	1					0
+1141191818	1	asmanex twisthaler 200mcg breath-actuated dry powder inhaler						0
+1141192004	1	avodart 500micrograms capsule						0
+1141192248	1	vardenafil						0
+1141192666	1	frovatriptan						0
+1141192990	1	morphgesic sr 10mg m/r tablet						0
+1141192994	1	morphgesic sr 60mg m/r tablet						0
+1141193290	1	lyrinel xl 5mg m/r tablet						0
+1141194800	1	bendroflumethiazide+potassium 2.5mg/7.7mmol m/r tablet						0
+1141194810	1	atenolol+bendroflumethiazide						0
+1141194840	1	hydrocortisone+lidocaine						0
+1141195844	1	dermol cream 500g	1				y	1
+1141200072	1	lyrica 25mg capsule						0
+1141200094	1	vaniqa 11.5% cream						0
+1141200446	1	mycophenolic acid 180mg gastro-resistant tablet					y	1
+1141200708	1	strontium product						0
+1141200880	1	oilatum bath formula liquid bath additive 150ml					y	1
+1141201040	1	co-diovan 80mg/12.5mg tablet						0
+1141201306	1	fibrazate xl 400mg m/r tablet						0
+1141201718	1	nebido 1000mg/4ml solution for injection						0
+2038460068	1	phenobarbitone						0
